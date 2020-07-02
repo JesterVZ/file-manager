@@ -1,0 +1,20 @@
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\test task.csprojAssemblyReference.cache
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\test task_MarkupCompile.cache
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\test task_MarkupCompile.lref
+C:\Users\vladi\source\repos\test task\test task\bin\Debug\netcoreapp3.1\test task.exe
+C:\Users\vladi\source\repos\test task\test task\bin\Debug\netcoreapp3.1\test task.deps.json
+C:\Users\vladi\source\repos\test task\test task\bin\Debug\netcoreapp3.1\test task.runtimeconfig.json
+C:\Users\vladi\source\repos\test task\test task\bin\Debug\netcoreapp3.1\test task.runtimeconfig.dev.json
+C:\Users\vladi\source\repos\test task\test task\bin\Debug\netcoreapp3.1\test task.dll
+C:\Users\vladi\source\repos\test task\test task\bin\Debug\netcoreapp3.1\test task.pdb
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\test task.g.resources
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\test task.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\test task.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\test task.AssemblyInfo.cs
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\test task.dll
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\test task.pdb
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\test task.genruntimeconfig.cache
+C:\Users\vladi\source\repos\test task\test task\obj\Debug\netcoreapp3.1\test task.csproj.ResolveComReference.cache

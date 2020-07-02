@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8monvjL25h9mUY1YyR0p242Z6uhu8J2ULP6CIlE83YfC2Om3APpntuFeb4eAtkh2HL3ugJ6AlLZx/fRlyrvj1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladi\\source\\repos\\test task\\test task\\test task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
